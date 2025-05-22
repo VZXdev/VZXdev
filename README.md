@@ -7,7 +7,7 @@ A passionate developer and tech enthusiast exploring the intersections of softwa
 - **Game Development** – Especially FPS mechanics, modding, and Unreal Engine.  
 - **Web & App Dev** – Building tools, interactive web apps, and open-source projects.  
 - **Reverse Engineering** – Digging into game files to understand how things work.  Or create cheats:)
-- **UI/UX Design** – Crafting sleek interfaces (check out my [projects](https://vzxdev.github.io/quasarSoft/About).  
+- **UI/UX Design** – Crafting sleek interfaces (check out my [projects](https://vzxdev.github.io/quasarSoft/about).  
 
 **🌱 I’m currently learning...**  
 - Advanced Unreal Engine 5 (blueprints/C++)
@@ -26,7 +26,7 @@ A passionate developer and tech enthusiast exploring the intersections of softwa
 **📫 How to reach me...**  
 - **GitHub**: [github.com/VZXdev](https://github.com/VZXdev)  
 - **My links**: [guns.lol/JealLeal](https://guns.lol/JealLeal)  
-- **Portfolio**: [VZXdev.github.io/quasarSoft](https://vzxdev.github.io/quasarSoft/About)
+- **Portfolio**: [VZXdev.github.io/quasarSoft](https://vzxdev.github.io/quasarSoft/about)
 - **Roblox**: [roblox.go/KristopherJL](https://www.roblox.com/users/189788555/profile)
 - **Telegram**: [t.me/Give_Me_Dollar](https://www.t.me/Give_Me_Dollar)
   
