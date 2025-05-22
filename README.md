@@ -29,6 +29,7 @@ A passionate developer and tech enthusiast exploring the intersections of softwa
 - **Portfolio**: [VZXdev.github.io/quasarSoft](https://vzxdev.github.io/quasarSoft/About)
 - **Roblox**: [roblox.go/KristopherJL](https://www.roblox.com/users/189788555/profile)
 - **Telegram**: [t.me/Give_Me_Dollar](https://www.t.me/Give_Me_Dollar)
+  
 **😄 Pronouns:** He/Him  
 **⚡ Fun fact:** I have cat named Villi and a parrot Markusha!  
 
