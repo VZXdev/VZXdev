@@ -7,7 +7,7 @@ A passionate developer and tech enthusiast exploring the intersections of softwa
 - **Game Development** – Especially FPS mechanics, modding, and Unreal Engine.  
 - **Web & App Dev** – Building tools, interactive web apps, and open-source projects.  
 - **Reverse Engineering** – Digging into game files to understand how things work.  Or create cheats:)
-- **UI/UX Design** – Crafting sleek interfaces (check out my [projects](https://vzxdev.github.io/quasarSoft/About)).  
+- **UI/UX Design** – Crafting sleek interfaces (check out my [projects](https://vzxdev.github.io/quasarSoft/About).  
 
 **🌱 I’m currently learning...**  
 - Advanced Unreal Engine 5 (blueprints/C++)
