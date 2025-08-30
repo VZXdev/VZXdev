@@ -4,7 +4,7 @@
 
 I'm jealleal (aka VZXdev, aka shadborg, aka Voix, aka Shad) and i enjoy writing code and building projects.
 A passionate developer and tech enthusiast exploring the intersections of software, gaming, and creative coding.  
-My best project is [quasar](https://github.com/VZXdev/Qusar). Check it out
+My best project is [quasar](https://github.com/VZXdev/Quasar). Check it out
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
