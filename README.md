@@ -1,6 +1,6 @@
 ### **✨ About Me: VZXdev (JealLeal) ✨**  
 
-**👋 Hi, I’m @VZXdev**  
+[![gpg](https://img.shields.io/badge/pgp-D7E6F549DF489AB8-131b1e?style=flat&labelColor=2d3e48&color=131b1e)](https://github.com/VZXdev)
 A passionate developer and tech enthusiast exploring the intersections of software, gaming, and creative coding.  
 
 **👀 I’m interested in...**  
