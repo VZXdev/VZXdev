@@ -1,6 +1,8 @@
-### **✨ About Me: VZXdev (JealLeal) ✨**  
+<img align="left" src="https://raw.githubusercontent.com/saveside/saveside/master/isave-small.png">
 
-[![gpg](https://img.shields.io/badge/pgp-D7E6F549DF489AB8-131b1e?style=flat&labelColor=2d3e48&color=131b1e)](https://github.com/VZXdev.pgp)
+### Hey!
+
+I'm jealleal (aka VZXdev, aka shadborg, aka Voix, aka Shad) and i enjoy writing code and building projects.
 A passionate developer and tech enthusiast exploring the intersections of software, gaming, and creative coding.  
 
 **👀 I’m interested in...**  
