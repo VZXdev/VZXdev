@@ -7,7 +7,7 @@ A passionate developer and tech enthusiast exploring the intersections of softwa
 - **Game Development** – Especially FPS mechanics, modding, and Unreal Engine.  
 - **Web & App Dev** – Building tools, interactive web apps, and open-source projects.  
 - **Reverse Engineering** – Digging into game files to understand how things work.  Or create cheats:)
-- **UI/UX Design** – Crafting sleek interfaces (check out my [projects](https://vzxdev.github.io/quasarSoft/about).  
+- **UI/UX Design** – Crafting sleek interfaces  
 
 **🌱 I’m currently learning...**  
 - Advanced Unreal Engine 5 (blueprints/C++)
@@ -18,21 +18,12 @@ A passionate developer and tech enthusiast exploring the intersections of softwa
 - WebAssembly (WASM) for high-performance web apps  
 - Ethical hacking & cybersecurity basics  
 
-**💞️ I’m looking to collaborate on...**  
-- Indie game projects (FPS/RPG)  
-- Open-source dev tools or modding communities  
-- Creative coding/visual experiments  
-
 **📫 How to reach me...**  
 - **GitHub**: [github.com/VZXdev](https://github.com/VZXdev)  
 - **My links**: [guns.lol/JealLeal](https://guns.lol/JealLeal)  
-- **Portfolio**: [VZXdev.github.io/quasarSoft](https://vzxdev.github.io/quasarSoft/about)
 - **Roblox**: [roblox.go/KristopherJL](https://www.roblox.com/users/189788555/profile)
 - **Telegram**: [t.me/Give_Me_Dollar](https://www.t.me/Give_Me_Dollar)
-  
-**😄 Pronouns:** He/Him  
-**⚡ Fun fact:** I have cat named Villi and a parrot Markusha!  
 
 
----  
-**P.S.** Love MultiPlayer games? Let’s talk *Roblox* strats or modding ideas! 🦜💀👌👍
+### Some languages I know
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-%23121011.svg?style=for-the-badge&logo=python&logoColor=white)
